@@ -1,0 +1,12 @@
+{
+  "name": "mapsIT (open selection in new tab)",
+  "description": "Search the current selection in maps.",
+  "version": "1.0",
+  "permissions": ["contextMenus", "tabs"],
+  "background": {
+    "scripts": ["sample.js"]
+  },
+  "icons": { "16": "icon16.png",
+    "32": "icon32.png"},
+  "manifest_version": 2
+}
